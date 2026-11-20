@@ -7,4 +7,6 @@
 3. **Monogramma da solo** (favicon, header compatto, icona social, sigillo): b corsiva sul nodo rosa **+ il nodino in alto a destra** (l'"asterisco").
    File: `vettoriale/monogramma_contratto_b_nodo.svg`, `vettoriale/sito/monogramma_con_nodino.png`.
 
+**Eccezione, misure molto piccole:** nell'header compatto del sito e nella favicon il monogramma resta **senza nodino**, perché a quella dimensione il nodino diventa un puntino illeggibile.
+
 Il nodo compare quindi sempre una sola volta per "gruppo": nella o, oppure dietro la b (più il nodino quando la b è da sola).
