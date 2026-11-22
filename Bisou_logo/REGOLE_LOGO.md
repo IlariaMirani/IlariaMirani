@@ -3,7 +3,8 @@
 ## Logo (definitivo)
 - Logo: "bisou" in serif pieno rosso (#DE1217) con il nodino in alto a destra.
   File: `definitivo/bisou_logo_rosso.svg` (anche `_nero` e `_bianco`), PNG per il sito: `definitivo/bisou_logo_rosso.png`.
-- Monogramma (b per favicon, icone ecc.): in arrivo dalla designer. Favicon provvisoria: `definitivo/nodino_rosso_favicon_provvisoria.png`.
+- Monogramma b (b + nodino): `definitivo/monogramma_b_rosso.svg` (anche `_nero`, `_bianco`). Favicon e header compatto del sito.
+- Nodo da solo: `definitivo/nodo_definitivo_rosso.svg`.
 
 ## Font
 - Titoli sito: Instrument Serif (sottile, nero), mai il font del logo.
